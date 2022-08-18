@@ -1,6 +1,6 @@
 # Questões da prova
 
-Para rodar os código que está na pasta P2, será necessário a instalação de certos módulos:
+Para rodar os código que estão na pasta P2, será necessário a instalação de certos módulos:
 -pip install pyopengl
 -pip install pillow
 -pip install pysdl2_dll
@@ -18,5 +18,10 @@ Para rodar os código que está na pasta P2, será necessário a instalação de
 ## 4) Iluminação (Prismas e Pirâmides) 
 
 ## 5) Alguma construção no “novo” opengl 
+Para essa construção será necessário os arquivos da pasta TeapotPhong.
 
 ## 6) Algum shader no “novo” opengl (p.Ex, um modelo de iluminação diferente, como toon, phong ou lambert ou a implementação de alguma geometria diferente usando shader, p.Ex. https://www.shadertoy.com/view/NsyBzV ). Observe que nesse tópico você não precisa ser original. Pode se basear em shader existente, colocando a devida fonte de referência. 
+ 
+ https://www.shadertoy.com/view/fltyDs 
+
+Inspirado em https://www.shadertoy.com/view/fdyczy#
